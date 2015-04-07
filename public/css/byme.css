@@ -1,0 +1,33 @@
+/**
+* ROW CENTER
+*/
+.row-centered {
+  text-align: center;
+}
+
+.col-centered {
+  display: inline-block;
+  float: none;
+  text-align: left;
+  margin-right: -4px;
+}
+
+#contact-section{
+  background: #2d343e;
+}
+
+/**
+* FOOTER
+*/
+footer {
+  background-color: #222;
+}
+
+section#contact .form-group input.form-control,
+section#contact .form-group textarea.form-control
+{
+  background: rgba(34, 34, 34, 0.5);
+}
+.fa-stack:hover {
+	-webkit-filter: grayscale(100%);
+}
